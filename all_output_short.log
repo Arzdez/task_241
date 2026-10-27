@@ -1,0 +1,2 @@
+ls: невозможно получить доступ к 'nonexistent_file.txt': Нет такого файла или каталога
+existing_file.txt
